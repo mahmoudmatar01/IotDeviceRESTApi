@@ -20,7 +20,7 @@ The shop can sell a device only if it meets the UK government's industry standar
 
 ## **Project Hierarchy**
 
-![1](https://github.com/mahmoudmatar01/IotDeviceRESTApi/assets/Screenshot.png)
+![1]([https://github.com/mahmoudmatar01/IotDeviceRESTApi/assets/Screenshot.png](https://raw.githubusercontent.com/mahmoudmatar01/IotDeviceRESTApi/master/assets/Screenshot.png?token=GHSAT0AAAAAACMVTYOQSLDI7TTJEBJMANJAZOKVEWQ))
 
 
 
