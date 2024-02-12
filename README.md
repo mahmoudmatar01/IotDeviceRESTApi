@@ -28,7 +28,7 @@ The shop can sell a device only if it meets the UK government's industry standar
   🔹 Returns all devices in the warehouse that are waiting for activation.
   🔹 Management endpoints that enable the shop manager to remove or update a device
      configuration status.
-  🔹 Returns an ordered result of devices available for sale.
+  🔹 Retrieve a list of IOTDevice entities from the database based on a specified DeviceStatus and a temperature range (temValue1 to temValue2).
   🔹 Expected response format should be in JSON.
 
 # **📌Technical Sector**
